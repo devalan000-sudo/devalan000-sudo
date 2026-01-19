@@ -1,5 +1,5 @@
 # 💫 About Me:
-Perfil de GitHub - Alan Quiroz Sobre mí Desarrollador Backend entusiasta por la <br>construcción de sistemas escalables y eficientes. Me especializo en el ecosistema Java,<br>con un fuerte enfoque en el diseño de APIs y arquitectura de software. Actualmente <br>estudiante académico y estudiante autodidacta
+Perfil de GitHub - Alan Quiroz Sobre mí Desarrollador Backend entusiasta por la construcción de sistemas escalables y eficientes.<br> Me especializo en el ecosistema Java, con un fuerte enfoque en el diseño de APIs y arquitectura de software.<br> Actualmente estudiante académico y estudiante autodidacta
 
 
 ## 🌐 Socials:
